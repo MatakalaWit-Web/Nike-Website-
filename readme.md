@@ -55,6 +55,11 @@ nike/
   └── README.md
 ```
 
+## Author
+
+Built by Matakala Witness 
+Email: matakalanew@gmail.com
+
 ## License
 
-This project is licensed
+This project is licensed under ISC License
