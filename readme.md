@@ -62,4 +62,4 @@ Email: matakalanew@gmail.com
 
 ## License
 
-This project is licensed under ISC License
+This project is licensed under MIT License
