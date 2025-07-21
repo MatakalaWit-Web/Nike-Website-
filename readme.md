@@ -58,7 +58,7 @@ nike/
 ## Author
 
 Built by Matakala Witness 
-Email: matakalanew@gmail.com
+Email: matakala@gmail.com
 
 ## License
 
